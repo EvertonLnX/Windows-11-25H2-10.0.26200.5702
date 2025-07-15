@@ -8,7 +8,7 @@ Windows 11 25H2 10.0.26200.5702
 
 Sem Defender.
 
-Sem Pasta Zip.
+Sem Pasta Zip **(inicie a loja uma vez, vá em atualizar aplicativos e ao atualizar todos, abra o powershell e digite winget install 7zip.7zip)**.
 
 Sem Requisitos TPM.
 
