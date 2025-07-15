@@ -6,18 +6,21 @@ Windows 11 25H2 Dev Otimizado
 
 Windows 11 25H2 10.0.26200.5702
 
-Sem Defender
+Sem Defender.
 
-Sem Pasta Zip
+Sem Pasta Zip.
 
-Sem Requisitos TPM
+Sem Requisitos TPM.
 
-Sem Telemetria
+Sem Telemetria.
 
-Sem OneDrive
+Sem OneDrive.
 
-Sem Apps pré-instalados
+Sem Apps pré-instalados.
 
++ Cosia básicas sem perder compatibilidades e funcionalidades.
+  
+**Tweaks Baseados no antigo ggOS como faço em todas as ISO**
 Apps Adicionados são:
 Microsoft.WindowsStore_8wekyb3d8bbwe
 
