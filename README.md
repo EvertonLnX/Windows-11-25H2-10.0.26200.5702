@@ -6,6 +6,8 @@ Windows 11 25H2 Dev Otimizado
 
 Windows 11 25H2 10.0.26200.5702
 
+Instalação em modo legado, como no Windows 10.
+
 Sem Defender.
 
 Sem Pasta Zip **(inicie a loja uma vez, vá em atualizar aplicativos e ao atualizar todos, abra o powershell e digite winget install 7zip.7zip)**.
