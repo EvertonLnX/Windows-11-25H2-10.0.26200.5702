@@ -6,7 +6,13 @@ Windows 11 25H2 Dev Otimizado
 
 Windows 11 25H2 10.0.26200.5702
 
+
+
 Instalação em modo legado, como no Windows 10.
+
+
+https://github.com/user-attachments/assets/97b582dd-09cc-41e5-a807-644959c849ca
+
 
 Sem Defender.
 
