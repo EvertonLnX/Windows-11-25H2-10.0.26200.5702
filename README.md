@@ -18,10 +18,12 @@ Sem OneDrive.
 
 Sem Apps pré-instalados.
 
-+ Cosia básicas sem perder compatibilidades e funcionalidades.
++ +Ajustes básicas sem perder compatibilidades e funcionalidades.
   
-**Tweaks Baseados no antigo ggOS como faço em todas as ISO**
-Apps Adicionados são:
+# **Tweaks Baseados no antigo ggOS como faço em todas as ISO**
+
+# Apps Adicionados são:
+
 Microsoft.WindowsStore_8wekyb3d8bbwe
 
 Microsoft.StorePurchaseApp_8wekyb3d8bbwe
