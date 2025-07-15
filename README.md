@@ -12,6 +12,8 @@ Sem Pasta Zip.
 
 Sem Requisitos TPM.
 
+Sem Sem Necessidade de Criação de conta ou login on-line durante a instalação(Mas é recomendado desligar a rede/cabo/wi-fi até terminar.
+
 Sem Telemetria.
 
 Sem OneDrive.
