@@ -1,6 +1,6 @@
 # **Considere nos ajudar com qualquer valor via http://livepix.gg/evertonlnx**
 - Agradeço a colaboração e motivação
-
+# Eu não migrei ainda, apenas compilei e otimizei via NTLite, então não tenho imagens melhores.
 # Windows-11-25H2-10.0.26200.5702 Versão PRO Compilado UUP
 Windows 11 25H2 Dev Otimizado
 
