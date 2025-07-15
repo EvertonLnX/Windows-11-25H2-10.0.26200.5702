@@ -20,6 +20,8 @@ Sem OneDrive.
 
 Sem Apps pré-instalados.
 
+# Modo escuro para Windows e Aplicativos é ativo automaticamente ou depois do primeiro reboot, instale e reinicia uma vez.
+
 + +Ajustes básicas sem perder compatibilidades e funcionalidades.
   
 # **Tweaks Baseados no antigo ggOS como faço em todas as ISO**
